@@ -1,4 +1,4 @@
-const myHeading = document. querySelector('h1'); // 변수의 값을 할당함 변하지 않는 값 //
+const myHeading = document. querySelector('h1'); // 변수의 값을 할당함 변하지 않는 값 값을 한번만 세팅 //
 
 myHeading. textContent = '안녕하세요! 자바스크립트';
 // var 기존에 있는 것 //
